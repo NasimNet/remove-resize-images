@@ -6,7 +6,7 @@
 * upload and run the file in root of wordpress
 <hr>
 
-<div dir='rtl'>
+<div dir='rtl' style='font-family: Tahoma'>
   
 ## توضیحات
 #### یک کد ساده برای حذف و فشرده سازی تمامی تصاویر ریسایز شده در پوشه آپلود وردپرس این کد برای ساخت دمو می تواند کاربردی باشد !
